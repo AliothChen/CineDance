@@ -9,19 +9,18 @@
   Qingdong He<sup>2</sup> &nbsp;
   Zhucun Xue<sup>3</sup> &nbsp;
   Qianyu Zhou<sup>4</sup> &nbsp;
-  Xiangtai Li<sup>5</sup> &nbsp;
+  Jason Li<sup>5</sup> &nbsp;
   Lizhuang Ma<sup>1,&dagger;</sup> &nbsp;
   Jiangning Zhang<sup>3,&Dagger;</sup> &nbsp;
-  Dacheng Tao<sup>6</sup>
+  Dacheng Tao<sup>5</sup>
 </p>
 
 <p>
   <sup>1</sup>Shanghai Jiao Tong University &nbsp;&nbsp;
   <sup>2</sup>University of Electronic Science and Technology of China &nbsp;&nbsp;
   <sup>3</sup>Zhejiang University &nbsp;&nbsp;
-  <sup>4</sup>Nanjing University of Science and Technology &nbsp;&nbsp;
-  <sup>5</sup>University of Tokyo &nbsp;&nbsp;
-  <sup>6</sup>Nanyang Technological University
+  <sup>4</sup>The University of Tokyo &nbsp;&nbsp;
+  <sup>5</sup>Nanyang Technological University
 </p>
 
 <p>
